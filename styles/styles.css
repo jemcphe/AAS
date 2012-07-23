@@ -1,0 +1,67 @@
+
+body{
+	background-color: #fff;
+	
+	margin: 0;
+}
+h2{
+	font-size: 36px;
+}
+h3{
+	font-size: 28px;
+}
+p{
+	font-size: 20px;
+}
+.container{
+	margin: 0 5%;
+}
+.header{
+	background-color: #fff;
+	height: 130px;
+	overflow: hidden;
+}
+.header tr{
+	height: 130px;
+}
+.header td{
+	margin-left: 25px;
+	padding: 0;
+}
+.flag{
+	width: 200px;
+	height: 130px;
+}
+.navBar{
+	background-color: #0065bd;
+}
+.navUl{
+	margin: 0 0 10px 0;
+}
+.navUl li{
+	display: inline;
+	margin-right: 50px;
+	font-size: 28px;
+	color: #ffffff;
+}
+.navUl a{
+	text-decoration: none;
+}
+.navUl a:hover{
+	color: #000;
+}
+.navUl a:link{
+	color: #fff;
+}
+.navUl a:visited{
+	color: #fff;
+}
+.navUl a:active{
+	color: #000;
+}
+#scotland{
+	float: right;
+	//margin-right: 25%;
+	width: 350px;
+	height: 480px;
+}
