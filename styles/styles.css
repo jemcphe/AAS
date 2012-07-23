@@ -13,6 +13,9 @@ h3{
 p{
 	font-size: 20px;
 }
+.bulletPoints li{
+	font-size: 20px;
+}
 .container{
 	margin: 0 5%;
 }
@@ -59,9 +62,31 @@ p{
 .navUl a:active{
 	color: #000;
 }
+#generalInfo{
+	margin-top: 30px;
+}
+#generalInfo tr{
+	height: 25px;
+}
+.trow1{
+	font-weight: bold;
+	font-size: 18px;
+	width: 200px;
+}
+.trow2{
+	font-size: 18px;
+}
 #scotland{
 	float: right;
 	//margin-right: 25%;
 	width: 350px;
 	height: 480px;
+}
+#glasgow{
+	float: right;
+	margin-left: 50px;
+}
+.reftext{
+	margin-top: 5px;
+	font-size: 14px;
 }
